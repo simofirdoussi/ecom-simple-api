@@ -29,5 +29,7 @@ social-auth-app-django==4.0.0
 social-auth-core==4.1.0
 sqlparse==0.4.2
 stripe==2.61.0
+unicorn==1.0.3
 uritemplate==4.1.1
 urllib3==1.26.7
+whitenoise==5.3.0
