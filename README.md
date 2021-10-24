@@ -15,4 +15,6 @@ Ecom api, deployed on ecom-api-tdg.herokuapp.com
 <ol>
   <li> Fork the repo </li>
   <li> Add your frontend domain to CORS_ALLOWED_ORIGINS (if you're still on the development: 'http://localhost:PORT')</li>
+  <li> Deploy: <a href="https://www.thedjangoguy.com/documents/host-your-django-app-in-heroku-2/"><strong>view tutorial »</strong></a> </li>
+ 
 </ol>
