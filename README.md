@@ -11,3 +11,8 @@ Ecom api, deployed on ecom-api-tdg.herokuapp.com
 <p > username: admin </p>
 <p > password: admin </p>
 
+<h3> How to use with a frontend tech: </h3>
+<ol>
+  <li> Fork the repo </li>
+  <li> Add your frontend domain to CORS_ALLOWED_ORIGINS (if you're still on the development: 'http://localhost:PORT')</li>
+</ol>
